@@ -2,11 +2,10 @@
 HI There
 
 
-![Static Badge](https://img.shields.io/badge/SASS-V%3A1.77.0-brightgreen?style=for-the-badge&logo=sass&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23FF0AD2&color=%23FF0AD2)
+![Static Badge](https://img.shields.io/badge/GULP-brightgreen?style=for-the-badge&logo=gulp&logoColor=%23ffffff&logoSize=auto&labelColor=%23CF4647&color=%23CF4647)
 
 
-![Static Badge](https://img.shields.io/badge/V%3A5.0.0-brightgreen?style=for-the-badge&logo=gulp&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23F3260A&color=%23F3260A)
-
+![Static Badge](https://img.shields.io/badge/SASS-brightgreen?style=for-the-badge&logo=sass&logoColor=%23ffffff&logoSize=auto&labelColor=%23F115CC&color=%23F115CC)
 
 ![Static Badge](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23E34F26&color=%23E34F26)
 
